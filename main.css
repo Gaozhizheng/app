@@ -1,4 +1,8 @@
 html, body {
   height: 100%;
-  margin: 0;
+  width: 100%; /* 宽度占满容器 */
+  border: none; /* 去掉边框 */
+  border-radius: 8px; /* 圆角 */
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1); /* 阴影效果 */
+
 }
