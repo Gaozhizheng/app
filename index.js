@@ -1,5 +1,5 @@
 new CozeWebSDK.AppWebSDK({
-  token: 'cztei_hdxpjDwCX0qA6swxBmPDsBmaj3BKDCpZXwgVRcJdHTc8EMA0QzcYLHqcP65eM032l',
+  token: 'pat_fUtelsKkOVRT02JprCFfzap5d2bZDigPUEMtu94yY0MgPrwVoiV9G2Y02TZptOio',
   appId: '7535228740545183796',
   container: '#app',
   userInfo: {
@@ -10,4 +10,5 @@ new CozeWebSDK.AppWebSDK({
   ui: {
     className: '',
   }
+
 });
