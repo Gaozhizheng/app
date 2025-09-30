@@ -8,7 +8,8 @@ new CozeWebSDK.AppWebSDK({
     nickname: 'User',
   },
   ui: {
-    className: '',
+    className: 'my-client',
   }
 
 });
+
